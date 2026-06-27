@@ -30,7 +30,7 @@ Production-grade payment microservice with a **9-state payment state machine**, 
 
 ---
 
-### 🎙️ BEEPOD — Podcast Booking Platform &nbsp; [![Live](https://img.shields.io/badge/Live-beepod.in-22c55e?style=flat-square)](https://beepod.in)
+### 🏢 BEEPOD — Live Space Booking Platform &nbsp; [![Live](https://img.shields.io/badge/Live-beepod.in-22c55e?style=flat-square)](https://beepod.in)
 
 > Spring Boot &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; AWS EC2 &nbsp;·&nbsp; AWS RDS &nbsp;·&nbsp; React &nbsp;·&nbsp; Resend API
 
