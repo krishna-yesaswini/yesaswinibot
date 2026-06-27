@@ -1,11 +1,7 @@
 <h1 align="center">Kudirelli Krishna Yesaswini</h1>
 
 <p align="center">
-  Java Full Stack Developer &nbsp;·&nbsp; FinTech &nbsp;·&nbsp; AWS &nbsp;·&nbsp; Visakhapatnam, India
-</p>
-
-<p align="center">
-  B.Tech CSE &nbsp;·&nbsp; Vignan's Institute of Information Technology &nbsp;·&nbsp; CGPA 8.03
+  B.Tech CSE &nbsp;·&nbsp; Vignan's Institute of Information Technology &nbsp;·&nbsp; CGPA 8.03 &nbsp;·&nbsp; Visakhapatnam, India
 </p>
 
 <p align="center">
